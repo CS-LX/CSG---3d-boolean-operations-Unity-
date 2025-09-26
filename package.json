@@ -1,0 +1,12 @@
+{
+  "name": "com.snikit.csg",
+  "version": "1.0.0",
+  "displayName": "CSG---3d boolean operations Unity",
+  "description": "3d Boolean Operations(CSG) on Meshes in the editor or via script at runtime. Specially helpful in punching windows or holes during level design or in game.",
+  "unity": "2021.3",
+  "author": {
+    "name": "snikit & CS-LX",
+    "email": "1659404657@qq.com",
+    "url": "https://github.com/CS-LX/CSG---3d-boolean-operations-Unity-"
+  }
+}
